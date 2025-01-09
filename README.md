@@ -21,3 +21,26 @@ A decentralized exchange platform for cryptocurrencies built on Ethereum
    ```bash
    git clone https://github.com/your-username/Dexify.git
    cd Dexify
+   ```
+2. Install dependencies:
+```bash
+npm install
+```
+3. Start the application:
+```bash
+npm start
+```
+
+
+
+### License
+This project is licensed under the MIT License.
+
+ ## Contributing
+Contributions are welcome! If you'd like to contribute, feel free to fork the repository and submit a pull request.
+
+## Contact
+For questions or feedback, please reach out to:
+
+GitHub: skiing22
+Email: ramolashubham02@gmail.com
